@@ -1,0 +1,7 @@
+{
+  "LeaderBoardItem": {
+    "rank": "int",
+    "nickName": "string",
+    "score": "int"
+  }
+}
